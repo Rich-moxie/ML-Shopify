@@ -13,4 +13,4 @@ select
   created_at,
   updated_at
 from
-  stich_shopify.customers
+  stitch_shopify.customers
