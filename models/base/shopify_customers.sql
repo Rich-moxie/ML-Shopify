@@ -13,4 +13,4 @@ select
   created_at,
   updated_at
 from
-  {{ var('customers_table') }}
+  stich_shopify.customers
